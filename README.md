@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new front-end technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently pursuing a Master's degree in Science at Nanjing University of Posts and Telecommunications.\
+🎓 &nbsp;I'm currently pursuing my Master's degree in Science at Nanjing University of Posts and Telecommunications.\
 🌱 &nbsp;I'm actively learning about Artificial Intelligence and Philosophy, constantly broadening my field of knowledge.\
 ✍️ &nbsp;In my free time, I enjoy contributing to open-source projects.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
