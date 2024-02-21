@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://github.com/ni00">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ni00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&count_private=true&hide=stars"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ni00&show_icons=true&theme=algolia&include_all_commits=true&hide=stars&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ni00&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
 </p>
