@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm NiXiaoBai</h2>
+<img alt="Night Coding" src="./assets/Hand-Wave.gif" width='40' align="left"/><h2>Hey there! I'm nixiaobai</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
