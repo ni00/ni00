@@ -30,8 +30,8 @@
 
 <p align="center">
 <a href="https://github.com/ni00">
-  <img height="180em" src="https://github.inxb.top/api?username=ni00&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github.inxb.top/api/top-langs/?username=ni00&layout=compact&langs_count=8&theme=vue-dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-ni00.vercel.app/api?username=ni00&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-ni00.vercel.app/api/top-langs/?username=ni00&layout=compact&langs_count=8&theme=vue-dark&count_private=true"/>
 </a>
 </p>
 
