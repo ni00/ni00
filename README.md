@@ -2,12 +2,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new front-end technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently pursuing my Master of Science degree at Nanjing University of Posts and Telecommunications.\
+💡 &nbsp;I enjoy exploring new front-end technologies and developing software solutions.\
+🎓 &nbsp;I hold a Master of Science degree and currently work as a Full-Stack Developer at 🏢 ByteDance.\
 🌱 &nbsp;I'm actively learning about Artificial Intelligence and Philosophy, constantly broadening my field of knowledge.\
 ✍️ &nbsp;In my free time, I enjoy contributing to open-source projects.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at mail@nixiaobai.com! I'll try to respond as soon as I can.
+💬 &nbsp;Feel free to reach out for pro bono consulting, volunteering opportunities, or just an interesting discussion.\
+✉️ &nbsp;You can email me at mail@nixiaobai.com! I'll do my best to respond promptly.\
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
