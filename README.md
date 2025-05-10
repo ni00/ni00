@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm actively learning about Artificial Intelligence and Philosophy, constantly broadening my field of knowledge.\
 ✍️ &nbsp;In my free time, I enjoy contributing to open-source projects.\
 💬 &nbsp;Feel free to reach out for pro bono consulting, volunteering opportunities, or just an interesting discussion.\
-✉️ &nbsp;You can email me at mail@nixiaobai.com! I'll do my best to respond promptly.\
+✉️ &nbsp;You can email me at mail@nixiaobai.com! I'll do my best to respond promptly.
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
